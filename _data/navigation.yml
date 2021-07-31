@@ -1,0 +1,11 @@
+main:
+  - title: "Wat is Zonnig Waasland?"
+    url: /wat-is-zonnig-waasland
+  - title: "Hoe werkt het"
+    url: /hoe-werkt-het
+  - title: "Veelgestelde vragen"
+    url: /veelgestelde-vragen
+  - title: "partners"
+    url: /partners
+  - title: "contact"
+    url: /contact
