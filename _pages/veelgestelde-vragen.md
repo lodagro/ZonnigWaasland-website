@@ -1,6 +1,6 @@
 ---
 toc: true
-permalink: /veelgestelde-vragen
+permalink: /veelgestelde-vragen/
 title: Veelgestelde vragen
 ---
 

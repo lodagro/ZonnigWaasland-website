@@ -9,4 +9,8 @@ serve:
 .PHONY:release
 release: site
 	cp .htaccess _site
-	cd _site; rsync --delete -PaAXz . $(USER)@$(WEB_SERVER):$(SITE_PATH)
+	cd _site; rsync --delete -PaAXz . $(USER)@$(WEB_SERVER):$(ZONNIGWAASLAND_PATH)
+
+.PHONY:ssh
+ssh:
+	ssh $(USER)@$(WEB_SERVER)

@@ -1,12 +1,12 @@
 ---
 toc: true
-permalink: /wat-is-zonnig-waasland
+permalink: /wat-is-zonnig-waasland/
 title: Wat is Zonnig Waasland
 ---
 
 Met het project ‘Zonnig Waasland’ gaat de lokale energiecoöperatie
 [MegaWattPuur](https://www.megawattpuur.be)  resoluut voor meer zonnepanelen in
-Gent en omstreken. Zonnig Waaland  biedt huiseigenaars, huurders en
+het Waasland. Zonnig Waasland  biedt huiseigenaars, huurders en
 appartementen onafhankelijk advies. Volgens het principe van een groepsaankoop
 worden sociaal-ecologisch verantwoorde panelen aangekocht, aan scherpe, vooraf
 bepaalde prijzen.
@@ -49,15 +49,15 @@ Maar kennis met onze medewerkers, installateurs en partners
 
 ## medewerkers
 
-TODO
+Maarten, Frauke, Wim, Jan en Wouter - allen betrokken bij MegaWattPuur.
 
 ## installateur
 
-TODO
+Atom Solar.
 
 ## partners
 
-TODO
+Provincie Oost-Vlaanderen.
 
 # Technisch aanbod
 
