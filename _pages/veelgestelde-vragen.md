@@ -36,7 +36,7 @@ naar de website van de [Vlaamse Overheid](https://www.vlaanderen.be/eenmalige-in
 # Wat is het eigenverbruik?
 
 Zodra je in het nieuwe systeem zit (installatie vanaf 2021 of oudere
-installatie met digitale meter), is een hoger eigenverbruik voordeliger is.
+installatie met digitale meter), is een hoger eigenverbruik voordeliger.
 Maar wat is dat eigenverbruik nu precies?
 
 Zonnepanelen produceren energie, waarvan slecht een deel onmiddellijk zal
@@ -56,7 +56,7 @@ geproduceerde energie onmiddellijk in huis te verbruiken.
 Zonnepanelen gaan lang mee en daar zijn 2 belangrijke redenen voor:
 
 * Er zijn geen bewegende onderdelen, waardoor slijtage heel beperkt is.
-* Ze worden heel stevig gebouwd 
+* Ze worden heel stevig gebouwd.
 
 omdat hun bestaansreden hier volledig van af hangt. Wie zou immers nog
 investeren in zonnepanelen als die gemiddeld na 5 jaar stuk zouden zijn.  De

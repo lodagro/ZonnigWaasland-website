@@ -6,10 +6,9 @@ title: Wat is Zonnig Waasland
 
 Met het project ‘Zonnig Waasland’ gaat de lokale energiecoöperatie
 [MegaWattPuur](https://www.megawattpuur.be)  resoluut voor meer zonnepanelen in
-het Waasland. Zonnig Waasland  biedt huiseigenaars, huurders en
-appartementen onafhankelijk advies. Volgens het principe van een groepsaankoop
-worden sociaal-ecologisch verantwoorde panelen aangekocht, aan scherpe, vooraf
-bepaalde prijzen.
+het Waasland. Zonnig Waasland  biedt aan eigenaars en huurders onafhankelijk
+advies. Volgens het principe van een groepsaankoop worden sociaal-ecologisch
+verantwoorde panelen aangekocht, aan scherpe, vooraf bepaalde prijzen.
 
 > We maken je wegwijs in de wondere wereld van zonne-energie!
 
@@ -37,25 +36,25 @@ enige twijfel of vragen staat onze adviseur altijd klaar.
 
 ## Voor iedereen
 
-Zonnig Waasland is er voor eigenaars, maar ook voor huurders,verhuurders en
-appartementen. Samen gaan we op zoek naar de geschikte oplossing voor jouw
-situatie en geven we ook de nodige informatie mee. Ben je dus huurder of
-mede-eigenaar van een appartement, neem gerust contact met ons op.
+Zonnig Waasland is er voor eigenaars, maar ook voor huurders. Samen gaan we op
+zoek naar de geschikte oplossing voor jouw situatie en geven we ook de nodige
+informatie mee. Ben je dus huurder of mede-eigenaar van een appartement, neem
+gerust contact met ons op.
 
 
 # Wie zijn we
 
 Maar kennis met onze medewerkers, installateurs en partners
 
-## medewerkers
+## Medewerkers
 
 Maarten, Frauke, Wim, Jan en Wouter - allen betrokken bij MegaWattPuur.
 
-## installateur
+## Installateur
 
 Atom Solar.
 
-## partners
+## Partners
 
 Provincie Oost-Vlaanderen.
 
@@ -63,7 +62,7 @@ Provincie Oost-Vlaanderen.
 
 * een gunstige, vooraf bepaalde prijs.
 * sociaal-ecologisch verantwoorde panelen 
-* verschillende kwaliteits omvormers (waardoor een op maat gemaakte installatie aangeboden kan worden.)
+* verschillende kwalitatieve omvormers (waardoor een op maat gemaakte installatie aangeboden kan worden.)
 * Een vaste lokale aannemer. Zo is er voor jou één duidelijk contactpersoon op de lange termijn.
 * een burgerinitiatief door en voor burgers waardoor we een persoonlijke, objectieve, vrijblijvende en onafhankelijke berekening kunnen aanbieden.
 * een snellere afhandeling dan andere groepsaankopen.
