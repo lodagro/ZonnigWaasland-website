@@ -6,9 +6,13 @@ title: Wat is Zonnig Waasland
 
 Met het project ‘Zonnig Waasland’ gaat de lokale energiecoöperatie
 [MegaWattPuur](https://www.megawattpuur.be)  resoluut voor meer zonnepanelen in
-het Waasland. Zonnig Waasland  biedt aan eigenaars en huurders onafhankelijk
-advies. Volgens het principe van een groepsaankoop worden sociaal-ecologisch
+het Waasland. Volgens het principe van een groepsaankoop worden sociaal-ecologisch
 verantwoorde panelen aangekocht, aan scherpe, vooraf bepaalde prijzen.
+
+Zonnepanelen op je woning, voor je jeugdbeweging, sportclub, vereniging, vzw of
+bedrijf?  Via onze groepsaankoop Zonnig Waasland plaatsen we installaties tot
+50 panelen.
+
 
 > We maken je wegwijs in de wondere wereld van zonne-energie!
 
