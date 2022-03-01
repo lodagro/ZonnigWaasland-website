@@ -2,6 +2,11 @@
 toc: true
 permalink: /wat-is-zonnig-waasland/
 title: Wat is Zonnig Waasland
+gallery:
+  - url: /assets/images/installaties/ID003.png
+    image_path: /assets/images/installaties/ID003.png
+  - url: /assets/images/installaties/ID004.png
+    image_path: /assets/images/installaties/ID004.png
 ---
 
 Met het project ‘Zonnig Waasland’ gaat de lokale energiecoöperatie
@@ -76,4 +81,4 @@ Provincie Oost-Vlaanderen.
 
 # Realisaties
 
-Hier komt een overzicht van de reeds geplaatste installaties.
+{% include gallery %}
