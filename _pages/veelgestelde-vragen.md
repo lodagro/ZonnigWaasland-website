@@ -4,7 +4,7 @@ permalink: /veelgestelde-vragen/
 title: Veelgestelde vragen
 ---
 
-# Installaties vanaf 2021 en de Vlaamse Premie
+## Installaties vanaf 2021 en de Vlaamse Premie
 
 Het plaatsen van zonnepanelen in 2021 valt binnen een nieuw wetgevend kader.
 Kort na de plaatsing van zonnepanelen zal een digitale meter geplaatst worden.
@@ -31,9 +31,9 @@ zonnepanelen ook in 2021 nog steeds rendabel zijn, maar het eigenverbruik zal
 hier ook een belangrijke rol bij spelen.
 
 Voor meer info over de Vlaamse Premie en de bedragen verwijzen we graag door
-naar de website van de [Vlaamse Overheid](https://www.vlaanderen.be/eenmalige-investeringspremie-van-de-netbeheerder-voor-zonnepanelen-vanaf-2021")
+naar de website van de [Vlaamse Overheid](https://www.vlaanderen.be/premie-van-fluvius-voor-zonnepanelen-op-gebouwen)
 
-# Wat is het eigenverbruik?
+## Wat is het eigenverbruik?
 
 Zodra je in het nieuwe systeem zit (installatie vanaf 2021 of oudere
 installatie met digitale meter), is een hoger eigenverbruik voordeliger.
@@ -47,11 +47,10 @@ het net gehaald worden. Door meer energie op het net te zetten (en er dus ook
 weer af te halen) wordt ons elektriciteitsnet meer belast en daar zullen dan
 ook nettarieven op betaald worden.
 
-
 Daarom is het belangrijk om te proberen zoveel mogelijk van de zelf
 geproduceerde energie onmiddellijk in huis te verbruiken.
 
-# Hoe lang gaat mijn PV-installatie mee?
+## Hoe lang gaat mijn PV-installatie mee?
 
 Zonnepanelen gaan lang mee en daar zijn 2 belangrijke redenen voor:
 
@@ -74,7 +73,7 @@ Je hebt natuurlijk niets aan garantie bij een failliet bedrijf. MegWatPuur
 kiest daarom steeds voor financieel sterke bedrijven, zowel bij de producent
 (via TIER-kwalificatie) als bij de aannemer.
 
-# Waarom kan ik mijn dak niet volledig vol leggen met zonnepanelen?
+## Waarom kan ik mijn dak niet volledig vol leggen met zonnepanelen?
 
 In België is het jammer genoeg niet voordelig om meer energie te produceren dan
 je op jaarbasis verbruikt. Productie die je niet direct verbruikt, plaats je
@@ -85,7 +84,7 @@ Een grotere installatie vergt een grotere investering en deze kan niet
 (voldoende) gecompenseerd worden door het bedrag dat je krijgt voor stroom op
 het net te zetten.
 
-# Wat is het prosumententarief?
+## Wat is het prosumententarief?
 
 **Enkel voor zonnepaneeleigenaars die nog geen digitale meter hebben**
 
@@ -99,7 +98,7 @@ elektriciteitsnet. Dit tarief wordt bepaald door het vermogen van de omvormer
 van de zonnepaneel installatie. Voor Sint-Niklaas bijvoorbeeld komt dit op
 €77,21 per jaar per kW vermogen van de omvormer.
 
-# Wanneer moet je overschakelen van een dag/nacht-teller naar een enkelvoudige teller?
+## Wanneer moet je overschakelen van een dag/nacht-teller naar een enkelvoudige teller?
 
 Onderstaand antwoord is geldig voor systeem met **terugdraaiende teller**.
 
@@ -125,7 +124,7 @@ Wachten op de digitale meter kan ook.  Van zodra je zonnepanelen hebt
 geplaatst, zal Fluvius op korte termijn bij u langskomen om een digitale meter
 te plaatsen. Dan kan u ook eenmalig gratis overschakelen van tarief.
 
-# Moet ik veranderen van energieleverancier bij het plaatsen van zonnepanelen?
+## Moet ik veranderen van energieleverancier bij het plaatsen van zonnepanelen?
 
 Neen dat hoeft niet
 
@@ -139,7 +138,7 @@ Neen dat hoeft niet
 Met de [V-test van de VREG](https://vtest.vreg.be) kan u de verschillende
 energieleveranciers vergelijken.
 
-# Is het voordelig om nu al batterijen aan te schaffen?
+## Is het voordelig om nu al batterijen aan te schaffen?
 
 **Voor 2021**
 
@@ -162,14 +161,14 @@ De thuisbatterijen zijn op dit moment nog behoorlijk duur, maar de prijzen
 zakken en op korte termijn zal het wel interessant worden om thuisbatterijen
 bij te plaatsen.
 
-# Kan ik met batterijen volledig energie-onafhankelijk worden?
+## Kan ik met batterijen volledig energie-onafhankelijk worden?
 
 Neen, batterijen zijn heel duur en zijn daarom slechts geschikt voor het
 opslaan van energie gedurende enkele uren/dagen, dus zeker niet voor het
 balanceren van bijvoorbeeld zomer en winter. Het is dus beter (of toch zeker
 véél goedkoper) om aan het net gekoppeld te blijven.
 
-# Plaats ik best mijn zonnepanelen in verschillende oriëntaties?
+## Plaats ik best mijn zonnepanelen in verschillende oriëntaties?
 
 Zonnepanelen worden meestal geplaatst in één beschikbaar dakvlak. Soms zijn er
 mogelijkheden om de zonnepanelen te plaatsen in meerdere oriëntaties.  Het
@@ -178,7 +177,7 @@ gespreid wordt over de hele dag. De spreiding van de productie zal je in staat
 stellen om iets meer van de zelf geproduceerde energie onmiddellijk te
 verbruiken, wat het eigen verbruik ten goede komt.
 
-# Heeft een PV-installatie veel onderhoud nodig?
+## Heeft een PV-installatie veel onderhoud nodig?
 
 Neen. In sommige gevallen kan de productie van zonnepanelen wel verlagen door
 hardnekkig vuil (bijvoorbeeld in de stoffige omstandigheden van een bouwwerf,
@@ -187,7 +186,7 @@ zonnepanelen wel nuttig zijn. Heel zelden loopt er iets mis met de panelen of
 de omvormer. Hiervoor heb je de garantie.  De meeste merken voorzien dan ook
 een bijdrage voor de aannemer, zodat de herstelwerkzaamheden gratis zijn.
 
-# Zijn zonnepanelen echt ecologisch?
+## Zijn zonnepanelen echt ecologisch?
 
 Ja. De energie die nodig is om een zonnepaneel te produceren bedraagt
 tegenwoordig minder dan 10% van de energie die dat zonnepaneel ooit zal
