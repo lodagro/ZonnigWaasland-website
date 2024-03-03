@@ -1,4 +1,0 @@
----
-permalink: /partners/
-title: partners
----

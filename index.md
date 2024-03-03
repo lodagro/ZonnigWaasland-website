@@ -20,4 +20,10 @@ wordt.
 
 > Zonnig Waasland heeft mij door de bomen het bos weer laten zien, zodat ik een weloverwogen keuze kon maken.
 
-[Schrijf je in](/schrijf-je-in){: .btn .btn--primary .btn--x-large}
+Zonnig waasland is gestart in 2021 als energieambassadeurs project van de
+provincie Oost-Vlaanderen met ondersteuning van Energent.
+Als MegaWattPuur zelf doen we geen advies gesprekken meer, maar gelukkig kan je
+terecht bij onze collega`s van Energent en hun groepsaankoop Zonnestad die nu
+ook loopt in het Waasland.
+
+[Ga naar Zonnestad](https://zonnestad.energent.be/){: .btn .btn--primary .btn--x-large}
